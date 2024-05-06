@@ -18,7 +18,7 @@ const HeroSection = () => {
         {
             id: 3,
             title: "2,34,200",
-            subTitle: "Job Seekers",
+            subTitle: "Jobseekers",
             icon: <FaUsers />,
         },
         {
@@ -34,11 +34,8 @@ const HeroSection = () => {
                 <div className="container">
                     <div className="title">
                         <h1>Find a job that suits</h1>
-                        <h1>your interests and skills</h1>
-                        <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem
-                            voluptate repellat modi quidem aliquid eaque ducimus ipsa et,
-                            facere mollitia!
+                        <h1>your interests and skills and find a good candidate</h1>
+                        <p> Explore interests, skills, and passions. Find the perfect job that aligns with you. Start your journey toward a fulfilling career.
                         </p>
                     </div>
                     <div className="image">
